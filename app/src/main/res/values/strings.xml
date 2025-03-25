@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string-array name="conversion_array">
+        <item>Centimeter to Meter</item>
+        <item>Meter to Kilometer</item>
+        <item>Celsius to Fahrenheit</item>
+        <item>Fahrenheit to Celsius</item>
+        <item>Gram to Kilogram</item>
+    </string-array>
+</resources>
